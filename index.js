@@ -26,5 +26,9 @@ io.on('connection', (socket)=>{
     console.log('disconnected from user'); 
   }); 
 }); 
+
+function A() {
+  return "A";
+}
   
 server.listen(port); 
