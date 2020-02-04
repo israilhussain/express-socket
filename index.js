@@ -30,5 +30,9 @@ io.on('connection', (socket)=>{
 function A() {
   return "A";
 }
+
+function B() {
+  return "B"
+}
   
 server.listen(port); 
