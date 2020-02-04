@@ -38,12 +38,9 @@ function B() {
 function C() {
   return "C"
 }
-<<<<<<< HEAD
 
 function D() {
   return "D"
 }
-=======
->>>>>>> feature1
   
 server.listen(port); 
