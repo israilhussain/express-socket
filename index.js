@@ -34,5 +34,9 @@ function A() {
 function B() {
   return "B"
 }
+
+function C() {
+  return "C"
+}
   
 server.listen(port); 
